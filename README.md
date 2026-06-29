@@ -1,51 +1,77 @@
-## Developer Portfolio Landing Page Template
+## Vanessa Ho | Data Analyst & AI Enthusiast
 
-### Introduction
+📍 Dallas, Texas | [LinkedIn](https://linkedin.com/in/hua-hsuan-vanessa-ho) | vanessa880414@gmail.com
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+---
 
-<img src="images/demo.gif?raw=true"/>
+### About Me
 
-### Installation
+I'm a Master's student in Business Analytics and Artificial Intelligence at UT Dallas, combining a background in international tourism management with hands-on experience in data analysis, predictive modeling, and AI-powered workflows.
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
+I'm passionate about turning messy data into clear business decisions — whether that's building predictive models, engineering databases, or automating repetitive processes with LLMs and no-code tools.
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+Currently seeking **internship or full-time opportunities** in data analytics, business intelligence, or AI operations (OPT eligible, 36 months).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+### Skills
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Programming:** Python · SQL · R
 
-```markdown
-Syntax highlighted code block
+**Data Analysis:** Data Cleaning · Statistical Analysis · Predictive Modeling
 
-# Header 1
-## Header 2
-### Header 3
+**Visualization:** Power BI · Tableau · Excel
 
-- Bulleted
-- List
+**AI & Automation:** LLM Applications · Prompt Engineering · Zapier · API Integration
 
-1. Numbered
-2. List
+---
 
-**Bold** and _Italic_ and `Code` text
+### Projects
 
-[Link](url) and ![Image](src)
-```
+---
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### [University Admissions Predictive Model](https://github.com/vanessa880414-oss)
+Built logistic regression and CART models on 17,000+ student records to predict university admission outcomes with **81.22% accuracy**. Identified GPA and SAT/ACT as primary enrollment drivers, delivering insights that optimize recruitment strategy by **27x**.
 
-### Roadmap
+`Python` `Logistic Regression` `CART` `Predictive Modeling`
 
-See the [open issues](https://github.com/evanca/machine-learning_optimizing-app-offers-with-starbucks/issues) for a list of proposed features (and known issues).
-___
+---
 
-### References
+#### [Wine Reviews SQL Analytics System](https://github.com/vanessa880414-oss)
+Engineered a MySQL database for 130,000+ wine reviews. Applied Pearson correlation and SQL window functions to analyze price-quality relationships and categorize products into retail value tiers.
 
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
+`MySQL` `SQL` `Pearson Correlation` `Business Intelligence`
+
+---
+
+#### [AI Customer Complaint Agent](https://github.com/vanessa880414-oss)
+Built an LLM-based customer service tool using Llama 3.1 via API. Designed a workflow covering issue classification, sentiment analysis, and automated response generation.
+
+`Python` `Llama 3.1` `Prompt Engineering` `LLM`
+
+---
+
+#### [Workflow Automation with Zapier](https://github.com/vanessa880414-oss)
+Designed trigger-action automation workflows connecting Google Sheets and email systems to reduce manual, repetitive tasks in business operations.
+
+`Zapier` `Google Sheets` `Workflow Automation`
+
+---
+
+### Experience
+
+**Gamania Digital Entertainment — Administrative Specialist / Executive Secretary** *(Aug 2024 – Apr 2025)*
+Managed operational data and generated reports using Excel and Dingxin ERP. Improved data accuracy and cross-functional workflow efficiency.
+
+**Gamania Digital Entertainment — Marketing Assistant** *(Mar 2024 – Aug 2024)*
+Collected and analyzed sales data from multiple e-commerce platforms. Identified trends to support marketing decisions and improved reporting efficiency.
+
+---
+
+### Education
+
+**MS in Business Analytics and Artificial Intelligence** — UT Dallas *(Expected May 2027)*
+Analytics Excellence Scholarship recipient · GPA 3.14
+
+**Bachelor's in International Tourism Management** — National Kaohsiung University of Hospitality and Tourism *(June 2022)*
+GPA 3.45

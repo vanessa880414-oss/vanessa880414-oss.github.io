@@ -1,11 +1,13 @@
-title: John Doe # your name (or website title) here
+title: Vanessa Ho # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  MS in Business Analytics & AI @ UT Dallas
   <br><br>
-  Second description 
+  Data Analyst · Python · SQL · Power BI · LLM Applications
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
-  
+  <a href="https://www.linkedin.com/in/hua-hsuan-vanessa-ho">View My LinkedIn Profile</a>
+  <br>
+  <a href="mailto:vanessa880414@gmail.com">vanessa880414@gmail.com</a>
+
 theme: jekyll-theme-tactile
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
